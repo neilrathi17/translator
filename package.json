@@ -1,0 +1,24 @@
+{
+  "name": "translator-bot",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.18.2"
+  },
+  "description": "bot for translation",
+  "main": "bot.js",
+  "author": "Neil Rathi",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "translate": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilrathi17/translator.git"
+  },
+  "license": "ISC"
+}
